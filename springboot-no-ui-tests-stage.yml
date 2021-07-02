@@ -2,4 +2,4 @@ message:
   text: message for spring-boot
 stage:
     message:
-        text: message for stage spring-boot from CodeCommit 
+        text: message for stage spring-boot from CodeCommit change
