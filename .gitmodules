@@ -1,0 +1,4 @@
+[submodule "support-configuration-repo"]
+	path = support-configuration-repo
+	url = https://github.com/ryanjbaxter/support-configuration-repo
+	branch = master
